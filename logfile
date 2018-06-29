@@ -1,0 +1,12 @@
+2018-06-08 12:30:51.809 BST [87873] LOG:  listening on IPv6 address "::1", port 5432
+2018-06-08 12:30:51.809 BST [87873] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-06-08 12:30:51.811 BST [87873] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-06-08 12:30:51.832 BST [87874] LOG:  database system was shut down at 2018-06-08 12:30:20 BST
+2018-06-08 12:30:51.839 BST [87873] LOG:  database system is ready to accept connections
+2018-06-08 12:31:07.269 BST [87888] FATAL:  database "DevcampPortfolio_development" does not exist
+2018-06-08 12:31:11.366 BST [87889] FATAL:  database "DevcampPortfolio_development" does not exist
+2018-06-08 12:31:19.456 BST [87893] FATAL:  database "DevcampPortfolio_development" does not exist
+2018-06-08 17:24:00.389 BST [87873] LOG:  received smart shutdown request
+2018-06-08 17:24:00.392 BST [87873] LOG:  worker process: logical replication launcher (PID 87880) exited with exit code 1
+2018-06-08 17:24:00.392 BST [87875] LOG:  shutting down
+2018-06-08 17:24:00.400 BST [87873] LOG:  database system is shut down
